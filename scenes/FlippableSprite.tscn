@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjrwg46fsrsfm"]
+
+[ext_resource type="Script" path="res://scripts/sprite_2d_flip.gd" id="1_cj0dm"]
+
+[node name="Sprite2D" type="Sprite2D"]
+texture_filter = 1
+hframes = 7
+vframes = 6
+frame = 3
+script = ExtResource("1_cj0dm")
+metadata/_aseprite_wizard_config_ = {
+"i_mode": -1,
+"keep_anim_length": false,
+"layer": "",
+"o_ex_p": "",
+"o_folder": "",
+"o_name": "",
+"only_visible": false,
+"player": "AnimationPlayer",
+"slice": "",
+"source": "res://assets/Knight.aseprite"
+}
+metadata/_aseprite_wizard_source_file_hash_ = "22b856364a98cc0d82ab877d22fa26e7"

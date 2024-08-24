@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=3 uid="uid://cqyhk70lvej61"]
+
+[ext_resource type="Script" path="res://scripts/EntityBase.gd" id="1_6knwt"]
+[ext_resource type="PackedScene" uid="uid://cjrwg46fsrsfm" path="res://scenes/FlippableSprite.tscn" id="2_8gf80"]
+[ext_resource type="PackedScene" uid="uid://ciqe8blhhongw" path="res://scenes/hurtbox.tscn" id="3_1vsyc"]
+[ext_resource type="PackedScene" uid="uid://cdorwr33u4un6" path="res://scenes/hitbox.tscn" id="3_drgv7"]
+
+[node name="EntityBase" type="CharacterBody2D"]
+collision_layer = 3
+collision_mask = 4
+script = ExtResource("1_6knwt")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+
+[node name="FlippableSprite2D" parent="." instance=ExtResource("2_8gf80")]
+
+[node name="Hitbox" parent="." instance=ExtResource("3_drgv7")]
+
+[node name="Hurtbox" parent="." instance=ExtResource("3_1vsyc")]
+
+[connection signal="area_entered" from="Hurtbox" to="." method="_on_hurtbox_area_entered"]
+
+[editable path="Hitbox"]
+[editable path="Hurtbox"]

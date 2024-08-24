@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://dato6bgnewol4"]
+
+[ext_resource type="PackedScene" uid="uid://24mq7rm55507" path="res://scenes/player_base.tscn" id="1_ytljb"]
+[ext_resource type="PackedScene" uid="uid://4fe1wk4fawtk" path="res://scenes/enemy_base.tscn" id="2_6tw4q"]
+
+[node name="Test scene" type="Node2D"]
+scale = Vector2(3, 3)
+
+[node name="PlayerBase" parent="." instance=ExtResource("1_ytljb")]
+position = Vector2(217, 97.6667)
+scale = Vector2(0.998226, 0.988745)
+hp_max = 200
+hp = 200
+
+[node name="enemy_base" parent="." instance=ExtResource("2_6tw4q")]
+position = Vector2(146.667, 98)
+hp_max = 1000
+hp = 1000

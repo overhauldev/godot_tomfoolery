@@ -1,0 +1,12 @@
+res://scenes/test_scene.tscn
+res://Shaders/HitFlash.tres
+res://scenes/player_base.tscn
+res://scenes/entity_base.tscn
+res://UI/damage_indicator.tscn
+res://scenes/FlippableSprite.tscn
+res://scenes/hurtbox.tscn
+res://scenes/hitbox.tscn
+res://scenes/enemy_base.tscn
+res://scenes/FlippableShape.tscn
+res://scripts/player_base.gd
+res://scripts/enemy_base.gd

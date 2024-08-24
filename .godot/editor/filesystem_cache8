@@ -1,0 +1,721 @@
+f2ca747bc66a24bbdfe24890ad44a30a
+::res://::1724450649
+icon.svg::CompressedTexture2D::1415170074410102591::1723512982::1723512987::1::::<><>::
+Orc.png::CompressedTexture2D::5932319357749140289::1724173244::1724173246::1::::<><>::
+README.md::TextFile::-1::1723514241::0::1::::<><>::
+README.ru.md::TextFile::-1::1723514241::0::1::::<><>::
+Skeleton.png::CompressedTexture2D::2551579695494253367::1724173189::1724173201::1::::<><>::
+::res://addons/::1723515095
+::res://addons/AsepriteWizard/::1724173339
+plugin.cfg::TextFile::-1::1724173339::0::1::::<><>::
+plugin.gd::GDScript::-1::1723515097::0::1::::<>EditorPlugin<>::
+::res://addons/AsepriteWizard/aseprite/::1723515096
+aseprite.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+file_exporter.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+::res://addons/AsepriteWizard/config/::1723515096
+config.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+config_dialog.gd::GDScript::-1::1723515096::0::1::::<>PopupPanel<>::
+config_dialog.tscn::PackedScene::8959845410224223728::1723515096::0::1::::<><>::res://addons/AsepriteWizard/config/config_dialog.gd
+result_codes.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+wizard_config.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+::res://addons/AsepriteWizard/creators/::1723515096
+base_sprite_resource_creator.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+::res://addons/AsepriteWizard/creators/animation_player/::1723515096
+animation_creator.gd::GDScript::-1::1723515096::0::1::::<><>::
+sprite_animation_creator.gd::GDScript::-1::1723515096::0::1::::<><>::
+texture_rect_animation_creator.gd::GDScript::-1::1723515096::0::1::::<><>::
+::res://addons/AsepriteWizard/creators/sprite_frames/::1723515096
+sprite_frames_creator.gd::GDScript::-1::1723515096::0::1::::<><>::
+::res://addons/AsepriteWizard/creators/static_texture/::1723515096
+texture_creator.gd::GDScript::-1::1723515096::0::1::::<><>::
+::res://addons/AsepriteWizard/export/::1723515096
+metadata_export_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorExportPlugin<>::
+::res://addons/AsepriteWizard/importers/::1723515096
+noop_import_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorImportPlugin<>::
+sprite_frames_import_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorImportPlugin<>::
+static_texture_import_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorImportPlugin<>::
+tileset_texture_import_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorImportPlugin<>::
+::res://addons/AsepriteWizard/interface/::1723515097
+::res://addons/AsepriteWizard/interface/docks/::1723515096
+base_inspector_dock.gd::GDScript::-1::1723515096::0::1::::<>PanelContainer<>::
+base_inspector_dock.tscn::PackedScene::790936594926835372::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/base_inspector_dock.gd<>uid://x1f1t87m582u::::res://addons/AsepriteWizard/interface/shared/animation_player_drop_button.tscn<>uid://dj1uo3blocr8e::::res://addons/AsepriteWizard/interface/shared/source_drop_button.tscn<>uid://cwvgnm3o7eed2::::res://addons/AsepriteWizard/interface/shared/dir_drop_button.tscn
+dock_fields.gd::GDScript::-1::1723515096::0::1::::<>MarginContainer<>::
+dock_fields.tscn::PackedScene::1452043402822489973::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/dock_fields.gd<>uid://x1f1t87m582u::::res://addons/AsepriteWizard/interface/shared/animation_player_drop_button.tscn<>uid://dj1uo3blocr8e::::res://addons/AsepriteWizard/interface/shared/source_drop_button.tscn<>uid://cwvgnm3o7eed2::::res://addons/AsepriteWizard/interface/shared/dir_drop_button.tscn
+::res://addons/AsepriteWizard/interface/docks/animated_sprite/::1723515096
+animated_sprite_inspector_dock.gd::GDScript::-1::1723515096::0::1::::<><>::
+animated_sprite_inspector_dock.tscn::PackedScene::1482828111488489973::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/animated_sprite/animated_sprite_inspector_dock.gd<>uid://uxm7b02wry10::::res://addons/AsepriteWizard/interface/docks/dock_fields.tscn
+inspector_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorInspectorPlugin<>::
+::res://addons/AsepriteWizard/interface/docks/sprite/::1723515096
+inspector_plugin.gd::GDScript::-1::1723515096::0::1::::<>EditorInspectorPlugin<>::
+sprite_inspector_dock.gd::GDScript::-1::1723515096::0::1::::<><>::
+sprite_inspector_dock.tscn::PackedScene::2998581922542402478::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/sprite/sprite_inspector_dock.gd<>uid://uxm7b02wry10::::res://addons/AsepriteWizard/interface/docks/dock_fields.tscn
+::res://addons/AsepriteWizard/interface/docks/wizard/::1723515096
+as_wizard_dock_container.gd::GDScript::-1::1723515096::0::1::::<>TabContainer<>::
+as_wizard_dock_container.tscn::PackedScene::4764297739002286173::1723515096::0::1::::<><>::uid://c5dwobjd34w3p::::res://addons/AsepriteWizard/interface/docks/wizard/as_wizard_window.tscn<>res://addons/AsepriteWizard/interface/docks/wizard/as_wizard_dock_container.gd<>uid://cyoin5ncul0fm::::res://addons/AsepriteWizard/interface/docks/wizard/sprite_frames_import_history.tscn<>uid://bfhsdslj8kt7b::::res://addons/AsepriteWizard/interface/docks/wizard/imported_sprite_frames.tscn
+as_wizard_window.gd::GDScript::-1::1723515096::0::1::::<>PanelContainer<>::
+as_wizard_window.tscn::PackedScene::6886060651346363495::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/as_wizard_window.gd
+imported_sprite_frames.gd::GDScript::-1::1723515096::0::1::::<>PanelContainer<>::
+imported_sprite_frames.tscn::PackedScene::2752914772279777613::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/imported_sprite_frames.gd<>uid://cisgsfvp4nf1g::::res://addons/AsepriteWizard/interface/shared/tree/resource_tree.tscn<>uid://q7eyyg2kvvv2::::res://addons/AsepriteWizard/interface/docks/wizard/resource_tree_single_item.tscn<>uid://fscemkx5w1dw::::res://addons/AsepriteWizard/interface/docks/wizard/resource_tree_multiple_items.tscn<>uid://qgmln507kjnm::::res://addons/AsepriteWizard/interface/shared/tree/tree_selection_confirmation_warning.tscn
+resource_tree_multiple_items.gd::GDScript::-1::1723515096::0::1::::<>VBoxContainer<>::
+resource_tree_multiple_items.tscn::PackedScene::388232241738635988::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/resource_tree_multiple_items.gd
+resource_tree_single_item.gd::GDScript::-1::1723515096::0::1::::<>VBoxContainer<>::
+resource_tree_single_item.tscn::PackedScene::1189368584433414497::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/resource_tree_single_item.gd<>uid://c1l0bk12iwln3::::res://addons/AsepriteWizard/interface/shared/tree/inline_warning_panel.tscn
+sprite_frames_import_history.gd::GDScript::-1::1723515096::0::1::::<>PanelContainer<>::
+sprite_frames_import_history.tscn::PackedScene::6486785450419732274::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/sprite_frames_import_history.gd
+wizard_import_helper.gd::GDScript::-1::1723515096::0::1::::<>Node<>::
+::res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/::1723515096
+details.gd::GDScript::-1::1723515096::0::1::::<>VBoxContainer<>::
+details.tscn::PackedScene::4230025582002195470::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/details.gd
+import_date.gd::GDScript::-1::1723515096::0::1::::<>Label<>::
+import_date.tscn::PackedScene::3701966676920363124::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/import_date.gd
+list_actions.gd::GDScript::-1::1723515096::0::1::::<>HBoxContainer<>::
+list_actions.tscn::PackedScene::-1::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/list_actions.gd
+output_path.tscn::PackedScene::-1::1723515096::0::1::::<><>::
+source_path.gd::GDScript::-1::1723515096::0::1::::<>LineEdit<>::
+source_path.tscn::PackedScene::-1::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/docks/wizard/wizard_nodes/source_path.gd
+::res://addons/AsepriteWizard/interface/imports_manager/::1723515097
+aseprite_imports_manager.gd::GDScript::-1::1723515096::0::1::::<>Window<>::
+aseprite_imports_manager.tscn::PackedScene::1803923898729981441::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/imports_manager/aseprite_imports_manager.gd
+dock_imports_panel.gd::GDScript::-1::1723515096::0::1::::<>Panel<>::
+dock_imports_panel.tscn::PackedScene::158833016359251406::1723515096::0::1::::<><>::res://addons/AsepriteWizard/interface/imports_manager/dock_imports_panel.gd<>uid://cisgsfvp4nf1g::::res://addons/AsepriteWizard/interface/shared/tree/resource_tree.tscn<>uid://qgmln507kjnm::::res://addons/AsepriteWizard/interface/shared/tree/tree_selection_confirmation_warning.tscn<>uid://dnlk2yep7teea::::res://addons/AsepriteWizard/interface/imports_manager/tree_selection_single_item.tscn<>uid://bhtu6mlwmthqo::::res://addons/AsepriteWizard/interface/imports_manager/tree_selection_multiple_items.tscn
+import_helper.gd::GDScript::-1::1723515096::0::1::::<>RefCounted<>::
+import_panels.gd::GDScript::-1::1723515097::0::1::::<>MarginContainer<>::
+import_panels.tscn::PackedScene::2396348643686595639::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/imports_manager/import_panels.gd<>uid://ci67r2f2btg5::::res://addons/AsepriteWizard/interface/imports_manager/dock_imports_panel.tscn
+tree_filter_field.gd::GDScript::-1::1723515097::0::1::::<>LineEdit<>::
+tree_selection_multiple_items.gd::GDScript::-1::1723515097::0::1::::<>VBoxContainer<>::
+tree_selection_multiple_items.tscn::PackedScene::2918236114242265634::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/imports_manager/tree_selection_multiple_items.gd
+tree_selection_single_item.gd::GDScript::-1::1723515097::0::1::::<>VBoxContainer<>::
+tree_selection_single_item.tscn::PackedScene::8095081827496145296::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/imports_manager/tree_selection_single_item.gd<>uid://c1l0bk12iwln3::::res://addons/AsepriteWizard/interface/shared/tree/inline_warning_panel.tscn
+::res://addons/AsepriteWizard/interface/shared/::1723515097
+animation_player_drop_button.gd::GDScript::-1::1723515097::0::1::::<>Button<>::
+animation_player_drop_button.tscn::PackedScene::1668368291279044894::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/shared/animation_player_drop_button.gd
+dir_drop_button.gd::GDScript::-1::1723515097::0::1::::<>Button<>::
+dir_drop_button.tscn::PackedScene::6360736051749278321::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/shared/dir_drop_button.gd
+source_drop_button.gd::GDScript::-1::1723515097::0::1::::<>Button<>::
+source_drop_button.tscn::PackedScene::7845876279114352826::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/shared/source_drop_button.gd
+::res://addons/AsepriteWizard/interface/shared/tree/::1723515097
+inline_warning_panel.gd::GDScript::-1::1723515097::0::1::::<>PanelContainer<>::
+inline_warning_panel.tscn::PackedScene::6621979734519509394::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/shared/tree/inline_warning_panel.gd
+resource_tree.gd::GDScript::-1::1723515097::0::1::::<>VBoxContainer<>::
+resource_tree.tscn::PackedScene::5371907658088870246::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/shared/tree/resource_tree.gd<>res://addons/AsepriteWizard/interface/imports_manager/tree_filter_field.gd
+tree_selection_confirmation_warning.gd::GDScript::-1::1723515097::0::1::::<>VBoxContainer<>::
+tree_selection_confirmation_warning.tscn::PackedScene::1136156742705764826::1723515097::0::1::::<><>::res://addons/AsepriteWizard/interface/shared/tree/tree_selection_confirmation_warning.gd
+::res://addons/nklbdev.aseprite_importers/::1724173341
+aseprite_image_format_loader_extension.gd::GDScript::-1::1723514241::0::1::::<>ImageFormatLoaderExtension<>::
+common.gd::GDScript::-1::1723514241::0::1::::<>Object<>::
+editor_plugin.gd::GDScript::-1::1723514241::0::1::::<>EditorPlugin<>::
+icon.png::CompressedTexture2D::2503417493381309461::1723514241::1723514242::1::::<><>::
+plugin.cfg::TextFile::-1::1724173341::0::1::::<><>::
+::res://addons/nklbdev.aseprite_importers/editor_import_plugins/::1723514241
+_animation_importer_base.gd::GDScript::-1::1723514241::0::1::::<><>::
+_importer_base.gd::GDScript::-1::1723514241::0::1::::<>EditorImportPlugin<>::
+animated_sprite_2d.gd::GDScript::-1::1723514241::0::1::::<><>::
+animated_sprite_3d.gd::GDScript::-1::1723514241::0::1::::<><>::
+sprite_2d.gd::GDScript::-1::1723514241::0::1::::<><>::
+sprite_3d.gd::GDScript::-1::1723514241::0::1::::<><>::
+sprite_frames.gd::GDScript::-1::1723514241::0::1::::<><>::
+texture_rect.gd::GDScript::-1::1723514241::0::1::::<><>::
+::res://assets/::1724264586
+Archer.aseprite::PackedScene::1552941962993999084::1723513329::1724165944::0::::<><>::
+Armored Axeman.aseprite::PackedScene::1487156837253228317::1723513329::1724165944::0::::<><>::
+Armored Orc.aseprite::PackedScene::325932057883671344::1723513329::1724165944::0::::<><>::
+Armored Skeleton.aseprite::PackedScene::6039555722743327064::1723513329::1724165944::0::::<><>::
+Elite Orc.aseprite::PackedScene::7224721416863625292::1723513329::1724165944::0::::<><>::
+Greatsword Skeleton.aseprite::PackedScene::5137440201390788593::1723513329::1724165944::0::::<><>::
+Knight Templar.aseprite::PackedScene::3678680019926225724::1723513329::1724165944::0::::<><>::
+Knight.aseprite::PackedScene::1969887289532655800::1724169622::1724173497::0::::<><>::
+Lancer.aseprite::PackedScene::4487085545684556215::1723513329::1724165944::0::::<><>::
+Orc rider.aseprite::PackedScene::3182593233992812153::1723513329::1724165944::0::::<><>::
+Orc.aseprite::PackedScene::7729169833573752891::1723513329::1724165944::0::::<><>::
+Priest.aseprite::PackedScene::5622005174401765704::1723513329::1724165944::0::::<><>::
+Skeleton Archer.aseprite::PackedScene::7502619442928802653::1723513329::1724165944::0::::<><>::
+Skeleton.aseprite::PackedScene::2522746787397627248::1723513329::1724173056::0::::<><>::
+Slime.aseprite::PackedScene::4355304624348497224::1723513329::1724165944::0::::<><>::
+Soldier.aseprite::PackedScene::176940833048897044::1723513329::1724165944::0::::<><>::
+Swordsman.aseprite::PackedScene::4545228370633236513::1724174535::1724264586::0::::<><>::
+Werebear.aseprite::PackedScene::7680248435959649071::1723513329::1724165944::0::::<><>::
+Werewolf.aseprite::PackedScene::3722022457899239129::1723513329::1724165944::0::::<><>::
+Wizard.aseprite::PackedScene::9086914894559360636::1723513329::1724165944::0::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/::1723514470
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Arrow(Projectile)/::1723513337
+Arrow01(32x32).png::CompressedTexture2D::9189623820159535481::1723513329::1723513337::1::::<><>::
+Arrow01(100x100).png::CompressedTexture2D::432361368539098824::1723513329::1723513337::1::::<><>::
+Arrow02(32x32).png::CompressedTexture2D::7968981287564617568::1723513329::1723513337::1::::<><>::
+Arrow02(100x100).png::CompressedTexture2D::8342422031681676395::1723513329::1723513337::1::::<><>::
+Arrow03(32x32).png::CompressedTexture2D::1198712440620340864::1723513329::1723513337::1::::<><>::
+Arrow03(100x100).png::CompressedTexture2D::7158293235941171219::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Aseprite file/::1723514491
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Archer/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Archer/Archer/::1723513337
+Archer-Attack01.png::CompressedTexture2D::1461825364826894315::1723513329::1723513337::1::::<><>::
+Archer-Attack02.png::CompressedTexture2D::8447756622893179572::1723513329::1723513337::1::::<><>::
+Archer-Death.png::CompressedTexture2D::4835341454141182493::1723513329::1723513337::1::::<><>::
+Archer-Hurt.png::CompressedTexture2D::2694134752935924599::1723513329::1723513337::1::::<><>::
+Archer-Idle.png::CompressedTexture2D::2621183761431586842::1723513329::1723513337::1::::<><>::
+Archer-Walk.png::CompressedTexture2D::7014317078521602539::1723513329::1723513337::1::::<><>::
+Archer.png::CompressedTexture2D::8739645235266752420::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Archer/Archer/Shadow sprites/::1723513337
+Archer-Shadow.png::CompressedTexture2D::5048962512165772199::1723513329::1723513337::1::::<><>::
+Archer-Shadow_death.png::CompressedTexture2D::6361682681265880473::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Archer/Archer with shadows/::1723513337
+Archer-Attack01.png::CompressedTexture2D::7692999448428700119::1723513329::1723513337::1::::<><>::
+Archer-Attack02.png::CompressedTexture2D::556560132273190778::1723513329::1723513337::1::::<><>::
+Archer-Death.png::CompressedTexture2D::4578004068501443242::1723513329::1723513337::1::::<><>::
+Archer-Hurt.png::CompressedTexture2D::7330582490224839701::1723513329::1723513337::1::::<><>::
+Archer-Idle.png::CompressedTexture2D::8476688092839057842::1723513329::1723513337::1::::<><>::
+Archer-Walk.png::CompressedTexture2D::231398474208275937::1723513329::1723513337::1::::<><>::
+Archer.png::CompressedTexture2D::677587156393269505::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Archer/Archer(Split Effects)/::1723513337
+Archer-Attack01_Effect.png::CompressedTexture2D::9092909241101721337::1723513329::1723513337::1::::<><>::
+Archer-Attack02_Effect.png::CompressedTexture2D::5279409647730106892::1723513329::1723513337::1::::<><>::
+Archer.png::CompressedTexture2D::2503852220809649157::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Archer/Arrow(projectile)/::1723513337
+Arrow02(32x32).png::CompressedTexture2D::7175882211994261002::1723513329::1723513337::1::::<><>::
+Arrow02(100x100).png::CompressedTexture2D::8629497040771231141::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Axeman/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Axeman/Armored Axeman/::1723513337
+Armored Axeman-Attack01.png::CompressedTexture2D::9152544076083369034::1723513329::1723513337::1::::<><>::
+Armored Axeman-Attack02.png::CompressedTexture2D::3255848970895541422::1723513329::1723513337::1::::<><>::
+Armored Axeman-Attack03.png::CompressedTexture2D::9053087743749462408::1723513329::1723513337::1::::<><>::
+Armored Axeman-Death.png::CompressedTexture2D::413830756309528977::1723513329::1723513337::1::::<><>::
+Armored Axeman-Hurt.png::CompressedTexture2D::628099512000448061::1723513329::1723513337::1::::<><>::
+Armored Axeman-Idle.png::CompressedTexture2D::3129656635334909631::1723513329::1723513337::1::::<><>::
+Armored Axeman-Walk.png::CompressedTexture2D::3050366348290032241::1723513329::1723513337::1::::<><>::
+Armored Axeman.png::CompressedTexture2D::4702608417601632876::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Axeman/Armored Axeman/Shadow sprites/::1723513337
+Armored Axeman-Shadow.png::CompressedTexture2D::9140757288730225145::1723513329::1723513337::1::::<><>::
+Armored Axeman-Shadow_attack02.png::CompressedTexture2D::4631229466488868568::1723513329::1723513337::1::::<><>::
+Armored Axeman-Shadow_death.png::CompressedTexture2D::1937673146452365558::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Axeman/Armored Axeman with shadows/::1723513337
+Armored Axeman-Attack01.png::CompressedTexture2D::7714978485507332207::1723513329::1723513337::1::::<><>::
+Armored Axeman-Attack02.png::CompressedTexture2D::7949981211784689349::1723513329::1723513337::1::::<><>::
+Armored Axeman-Attack03.png::CompressedTexture2D::4931177498875890503::1723513329::1723513337::1::::<><>::
+Armored Axeman-Death.png::CompressedTexture2D::7357119803469370817::1723513329::1723513337::1::::<><>::
+Armored Axeman-Hurt.png::CompressedTexture2D::3061775076442392409::1723513329::1723513337::1::::<><>::
+Armored Axeman-Idle.png::CompressedTexture2D::7217849879105640091::1723513329::1723513337::1::::<><>::
+Armored Axeman-Walk.png::CompressedTexture2D::5586981272949327505::1723513329::1723513337::1::::<><>::
+Armored Axeman.png::CompressedTexture2D::9018073298855244074::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Axeman/Armored Axeman(Split Effects)/::1723513337
+Armored Axeman-Attack01_Effect.png::CompressedTexture2D::265281871110786437::1723513329::1723513337::1::::<><>::
+Armored Axeman-Attack02_Effect.png::CompressedTexture2D::8942311046168367297::1723513329::1723513337::1::::<><>::
+Armored Axeman-Attack03_Effect.png::CompressedTexture2D::2757711707539819065::1723513329::1723513337::1::::<><>::
+Armored Axeman.png::CompressedTexture2D::5063162458007086491::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Orc/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Orc/Armored Orc/::1723513337
+Armored Orc-Attack01.png::CompressedTexture2D::7192648630677937809::1723513329::1723513337::1::::<><>::
+Armored Orc-Attack02.png::CompressedTexture2D::6881753913348410489::1723513329::1723513337::1::::<><>::
+Armored Orc-Attack03.png::CompressedTexture2D::4984391372214865005::1723513329::1723513337::1::::<><>::
+Armored Orc-Block.png::CompressedTexture2D::5641502670310249717::1723513329::1723513337::1::::<><>::
+Armored Orc-Death.png::CompressedTexture2D::7565962405142357326::1723513329::1723513337::1::::<><>::
+Armored Orc-Hurt.png::CompressedTexture2D::7342911581249108543::1723513329::1723513337::1::::<><>::
+Armored Orc-Idle.png::CompressedTexture2D::1092457077951690493::1723513329::1723513337::1::::<><>::
+Armored Orc-Walk.png::CompressedTexture2D::8492618681724609293::1723513329::1723513337::1::::<><>::
+Armored Orc.png::CompressedTexture2D::1819434184713759304::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Orc/Armored Orc/Shadow sprites/::1723513337
+Armored Orc-Shadow.png::CompressedTexture2D::774852051300394154::1723513329::1723513337::1::::<><>::
+Armored Orc-Shadow_death.png::CompressedTexture2D::6164350549573636163::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Orc/Armored Orc with shadows/::1723513337
+Armored Orc-Attack01.png::CompressedTexture2D::3559148634116685080::1723513329::1723513337::1::::<><>::
+Armored Orc-Attack02.png::CompressedTexture2D::219922326185203925::1723513329::1723513337::1::::<><>::
+Armored Orc-Attack03.png::CompressedTexture2D::5547217190582632104::1723513329::1723513337::1::::<><>::
+Armored Orc-Block.png::CompressedTexture2D::1437451336141387172::1723513329::1723513337::1::::<><>::
+Armored Orc-Death.png::CompressedTexture2D::2904066931595257309::1723513329::1723513337::1::::<><>::
+Armored Orc-Hurt.png::CompressedTexture2D::1816858335015523565::1723513329::1723513337::1::::<><>::
+Armored Orc-Idle.png::CompressedTexture2D::4576452549408692371::1723513329::1723513337::1::::<><>::
+Armored Orc-Walk.png::CompressedTexture2D::5611315359863589581::1723513329::1723513337::1::::<><>::
+Armored Orc.png::CompressedTexture2D::4387521154703942140::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Orc/Armored Orc(Split Effects)/::1723513337
+Armored Orc-Attack01_Effect.png::CompressedTexture2D::2736972387294298892::1723513329::1723513337::1::::<><>::
+Armored Orc-Attack02_Effect.png::CompressedTexture2D::4719967626124915481::1723513329::1723513337::1::::<><>::
+Armored Orc-Attack03_Effect.png::CompressedTexture2D::2211828309702300033::1723513329::1723513337::1::::<><>::
+Armored Orc.png::CompressedTexture2D::4863987372665339310::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Skeleton/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Skeleton/Armored Skeleton/::1723513337
+Armored Skeleton-Attack01.png::CompressedTexture2D::409659823267594560::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Attack02.png::CompressedTexture2D::6593626653107384899::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Death.png::CompressedTexture2D::428510971693068303::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Hurt.png::CompressedTexture2D::3883305642549983631::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Idle.png::CompressedTexture2D::7399946592390988446::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Walk.png::CompressedTexture2D::7933525188974027675::1723513329::1723513337::1::::<><>::
+Armored Skeleton.png::CompressedTexture2D::154516807605792162::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Skeleton/Armored Skeleton/Shadow sprites/::1723513337
+Armored Skeleton-Shadow.png::CompressedTexture2D::3800086380626497287::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Shadow_death.png::CompressedTexture2D::6832333686533586011::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Skeleton/Armored Skeleton with shadows/::1723513337
+Armored Skeleton-Attack01.png::CompressedTexture2D::1113997239265102641::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Attack02.png::CompressedTexture2D::8520966806368364128::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Death.png::CompressedTexture2D::2709996622171003646::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Hurt.png::CompressedTexture2D::4376434579754907139::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Idle.png::CompressedTexture2D::4254978293966455969::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Walk.png::CompressedTexture2D::3181384137782113298::1723513329::1723513337::1::::<><>::
+Armored Skeleton.png::CompressedTexture2D::1857863246387195379::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Armored Skeleton/Armored Skeleton(Split Effects)/::1723513337
+Armored Skeleton-Attack01_Effect.png::CompressedTexture2D::2619138249206228984::1723513329::1723513337::1::::<><>::
+Armored Skeleton-Attack02_Effect.png::CompressedTexture2D::8944848550774641180::1723513329::1723513337::1::::<><>::
+Armored Skeleton.png::CompressedTexture2D::8171146892796575297::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Elite Orc/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Elite Orc/Elite Orc/::1723513337
+Elite Orc-Attack01.png::CompressedTexture2D::6567568658860102863::1723513329::1723513337::1::::<><>::
+Elite Orc-Attack02.png::CompressedTexture2D::5261369815888587492::1723513329::1723513337::1::::<><>::
+Elite Orc-Attack03.png::CompressedTexture2D::3021333302287666707::1723513329::1723513337::1::::<><>::
+Elite Orc-Death.png::CompressedTexture2D::4091836027975421929::1723513329::1723513337::1::::<><>::
+Elite Orc-Hurt.png::CompressedTexture2D::4591876488887418160::1723513329::1723513337::1::::<><>::
+Elite Orc-Idle.png::CompressedTexture2D::7115439877281791851::1723513329::1723513337::1::::<><>::
+Elite Orc-Walk.png::CompressedTexture2D::4650951587696008378::1723513329::1723513337::1::::<><>::
+Elite Orc.png::CompressedTexture2D::2836567194032378034::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Elite Orc/Elite Orc/Shadow sprites/::1723513337
+Elite Orc-Shadow.png::CompressedTexture2D::4305801800014997491::1723513329::1723513337::1::::<><>::
+Elite Orc-Shadow_attack03.png::CompressedTexture2D::8887290379087047743::1723513329::1723513337::1::::<><>::
+Elite Orc-Shadow_death.png::CompressedTexture2D::8026344238025255685::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Elite Orc/Elite Orc with shadows/::1723513337
+Elite Orc-Attack01.png::CompressedTexture2D::135896368476800296::1723513329::1723513337::1::::<><>::
+Elite Orc-Attack02.png::CompressedTexture2D::1757071924714020645::1723513329::1723513337::1::::<><>::
+Elite Orc-Attack03.png::CompressedTexture2D::8031186186033302028::1723513329::1723513337::1::::<><>::
+Elite Orc-Death.png::CompressedTexture2D::2380799770966962167::1723513329::1723513337::1::::<><>::
+Elite Orc-Hurt.png::CompressedTexture2D::2448200372092464637::1723513329::1723513337::1::::<><>::
+Elite Orc-Idle.png::CompressedTexture2D::4922797475451371372::1723513329::1723513337::1::::<><>::
+Elite Orc-Walk.png::CompressedTexture2D::2993776788631648173::1723513329::1723513337::1::::<><>::
+Elite Orc.png::CompressedTexture2D::7791649560175205355::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Elite Orc/Elite Orc(Split Effects)/::1723513337
+Elite Orc-Attack01_Effect.png::CompressedTexture2D::8052707852162038941::1723513329::1723513337::1::::<><>::
+Elite Orc-Attack02_Effect.png::CompressedTexture2D::3277132310576836100::1723513329::1723513337::1::::<><>::
+Elite Orc-Attack03_Effect.png::CompressedTexture2D::1496904547373927261::1723513329::1723513337::1::::<><>::
+Elite Orc.png::CompressedTexture2D::6729979607051006103::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Greatsword Skeleton/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton/::1723513337
+Greatsword Skeleton-Attack01.png::CompressedTexture2D::6562019488100158378::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Attack02.png::CompressedTexture2D::4331809317610264862::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Attack03.png::CompressedTexture2D::7343252939282531084::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Death.png::CompressedTexture2D::75408594468056334::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Hurt.png::CompressedTexture2D::1031223272665945012::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Idle.png::CompressedTexture2D::7330567978553315875::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Walk.png::CompressedTexture2D::2148665696349926789::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton.png::CompressedTexture2D::2800668904732330785::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton/Shadow sprites/::1723513337
+Greatsword Skeleton-shadow.png::CompressedTexture2D::7365567931590843479::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-shadow_death.png::CompressedTexture2D::1684955871047474727::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton with shadows/::1723513337
+Greatsword Skeleton-Attack01.png::CompressedTexture2D::3842980402875718868::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Attack02.png::CompressedTexture2D::2213603883835921299::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Attack03.png::CompressedTexture2D::4702278739264568401::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Death.png::CompressedTexture2D::4110722454708268422::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Hurt.png::CompressedTexture2D::3129120592257787539::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Idle.png::CompressedTexture2D::8575072149944439742::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Walk.png::CompressedTexture2D::4015311611935582924::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton.png::CompressedTexture2D::8448517996087998116::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Greatsword Skeleton/Greatsword Skeleton(Split Effects)/::1723513337
+Greatsword Skeleton-Attack01_Effect.png::CompressedTexture2D::214345633887452814::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Attack02_Effect.png::CompressedTexture2D::8456068388313394832::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton-Attack03_Effect.png::CompressedTexture2D::5698173104558471467::1723513329::1723513337::1::::<><>::
+Greatsword Skeleton.png::CompressedTexture2D::4762068794565869226::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight/Knight/::1723513338
+Knight-Attack01.png::CompressedTexture2D::5313417740365872049::1723513329::1723513337::1::::<><>::
+Knight-Attack02.png::CompressedTexture2D::6833890356981256096::1723513329::1723513337::1::::<><>::
+Knight-Attack03.png::CompressedTexture2D::6842640700562942057::1723513329::1723513337::1::::<><>::
+Knight-Block.png::CompressedTexture2D::4349126358781435846::1723513329::1723513337::1::::<><>::
+Knight-Death.png::CompressedTexture2D::5596415748792695236::1723513329::1723513337::1::::<><>::
+Knight-Hurt.png::CompressedTexture2D::3335192618378953763::1723513329::1723513337::1::::<><>::
+Knight-Idle.png::CompressedTexture2D::7318160285465357401::1723513329::1723513337::1::::<><>::
+Knight-Walk.png::CompressedTexture2D::3535970958521352071::1723513329::1723513337::1::::<><>::
+Knight.png::CompressedTexture2D::8864323453853253969::1723513329::1723513338::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight/Knight/Shadow sprites/::1723513337
+Knight-Shadow.png::CompressedTexture2D::7572118137829891543::1723513329::1723513337::1::::<><>::
+Knight-Shadow_death.png::CompressedTexture2D::9104264358638755198::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight/Knight with shadows/::1723513337
+Knight-Attack01.png::CompressedTexture2D::2041309327623507786::1723513329::1723513337::1::::<><>::
+Knight-Attack02.png::CompressedTexture2D::1296150359209852398::1723513329::1723513337::1::::<><>::
+Knight-Attack03.png::CompressedTexture2D::375118745373242758::1723513329::1723513337::1::::<><>::
+Knight-Block.png::CompressedTexture2D::4921289209573582576::1723513329::1723513337::1::::<><>::
+Knight-Death.png::CompressedTexture2D::8292024006139135221::1723513329::1723513337::1::::<><>::
+Knight-Hurt.png::CompressedTexture2D::1905056703914809681::1723513329::1723513337::1::::<><>::
+Knight-Idle.png::CompressedTexture2D::1809050351215226863::1723513329::1723513337::1::::<><>::
+Knight-Walk.png::CompressedTexture2D::6881160204655694142::1723513329::1723513337::1::::<><>::
+Knight.png::CompressedTexture2D::8487899956887610069::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight/Knight(Split Effects)/::1723513337
+Knight-Attack01_Effect.png::CompressedTexture2D::3784766684530460316::1723513329::1723513337::1::::<><>::
+Knight-Attack02_Effect.png::CompressedTexture2D::683752712112949678::1723513329::1723513337::1::::<><>::
+Knight-Attack03_Effect.png::CompressedTexture2D::1418874936539709202::1723513329::1723513337::1::::<><>::
+Knight.png::CompressedTexture2D::4911711988666674778::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight Templar/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight Templar/Knight Templar/::1723513337
+Knight Templar-Attack01.png::CompressedTexture2D::6794599689520008957::1723513329::1723513337::1::::<><>::
+Knight Templar-Attack02.png::CompressedTexture2D::739415318704086735::1723513329::1723513337::1::::<><>::
+Knight Templar-Attack03.png::CompressedTexture2D::4433863944648693488::1723513329::1723513337::1::::<><>::
+Knight Templar-Block.png::CompressedTexture2D::3868398001925131354::1723513329::1723513337::1::::<><>::
+Knight Templar-Death.png::CompressedTexture2D::1710613413411778145::1723513329::1723513337::1::::<><>::
+Knight Templar-Hurt.png::CompressedTexture2D::2764417227950599854::1723513329::1723513337::1::::<><>::
+Knight Templar-Idle.png::CompressedTexture2D::4871548896633066945::1723513329::1723513337::1::::<><>::
+Knight Templar-Walk01.png::CompressedTexture2D::5420857537751690377::1723513329::1723513337::1::::<><>::
+Knight Templar-Walk02.png::CompressedTexture2D::297146334296047860::1723513329::1723513337::1::::<><>::
+Knight Templar.png::CompressedTexture2D::1443653618889508912::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight Templar/Knight Templar/Shadow sprites/::1723513337
+Knight Templar-Shadow.png::CompressedTexture2D::6466930361397914518::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight Templar/Knight Templar with shadows/::1723513337
+Knight Templar-Attack01.png::CompressedTexture2D::7627369908363294130::1723513329::1723513337::1::::<><>::
+Knight Templar-Attack02.png::CompressedTexture2D::1468964050803290418::1723513329::1723513337::1::::<><>::
+Knight Templar-Attack03.png::CompressedTexture2D::201974586812693183::1723513329::1723513337::1::::<><>::
+Knight Templar-Block.png::CompressedTexture2D::1685536618185971813::1723513329::1723513337::1::::<><>::
+Knight Templar-Death.png::CompressedTexture2D::8604492720367175018::1723513329::1723513337::1::::<><>::
+Knight Templar-Hurt.png::CompressedTexture2D::4273620151281456440::1723513329::1723513337::1::::<><>::
+Knight Templar-Idle.png::CompressedTexture2D::1945432308267331735::1723513329::1723513337::1::::<><>::
+Knight Templar-Walk01.png::CompressedTexture2D::990164598862618151::1723513329::1723513337::1::::<><>::
+Knight Templar-Walk02.png::CompressedTexture2D::1859212250561669181::1723513329::1723513337::1::::<><>::
+Knight Templar.png::CompressedTexture2D::2976446776261313576::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Knight Templar/Knight Templar(Split Effects)/::1723513337
+Knight Templar-Attack01_Effect.png::CompressedTexture2D::6106798972214611340::1723513329::1723513337::1::::<><>::
+Knight Templar-Attack02_Effect.png::CompressedTexture2D::5739491440430691131::1723513329::1723513337::1::::<><>::
+Knight Templar-Attack03_Effect.png::CompressedTexture2D::4279627614370588208::1723513329::1723513337::1::::<><>::
+Knight Templar.png::CompressedTexture2D::434653810135765910::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Lancer/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Lancer/Lancer/::1723513337
+Lancer-Attack01.png::CompressedTexture2D::1424840670120409766::1723513329::1723513337::1::::<><>::
+Lancer-Attack02.png::CompressedTexture2D::4366330748795642608::1723513329::1723513337::1::::<><>::
+Lancer-Attack03.png::CompressedTexture2D::3946764343842240023::1723513329::1723513337::1::::<><>::
+Lancer-Death.png::CompressedTexture2D::627057356728872313::1723513329::1723513337::1::::<><>::
+Lancer-Hurt.png::CompressedTexture2D::665710642216949493::1723513329::1723513337::1::::<><>::
+Lancer-Idle.png::CompressedTexture2D::6938767042899933416::1723513329::1723513337::1::::<><>::
+Lancer-Walk01.png::CompressedTexture2D::7884271206659904619::1723513329::1723513337::1::::<><>::
+Lancer-Walk02.png::CompressedTexture2D::584205664909860005::1723513329::1723513337::1::::<><>::
+Lancer.png::CompressedTexture2D::8783406499180788442::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Lancer/Lancer/Shadow sprites/::1723513337
+Lancer-Shadow.png::CompressedTexture2D::2021144562811401182::1723513329::1723513337::1::::<><>::
+Lancer-Shadow_death.png::CompressedTexture2D::8018333968390923942::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Lancer/Lancer with shadows/::1723513337
+Lancer-Attack01.png::CompressedTexture2D::1284060527847803904::1723513329::1723513337::1::::<><>::
+Lancer-Attack02.png::CompressedTexture2D::7096359923965740364::1723513329::1723513337::1::::<><>::
+Lancer-Attack03.png::CompressedTexture2D::7029622176348145166::1723513329::1723513337::1::::<><>::
+Lancer-Death.png::CompressedTexture2D::1291688865714314896::1723513329::1723513337::1::::<><>::
+Lancer-Hurt.png::CompressedTexture2D::7415117933052976647::1723513329::1723513337::1::::<><>::
+Lancer-Idle.png::CompressedTexture2D::2385634066704591364::1723513329::1723513337::1::::<><>::
+Lancer-Walk01.png::CompressedTexture2D::6257896970958967069::1723513329::1723513337::1::::<><>::
+Lancer-Walk02.png::CompressedTexture2D::4151631158763554460::1723513329::1723513337::1::::<><>::
+Lancer.png::CompressedTexture2D::5112546408599561264::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Lancer/Lancer(Split Effects)/::1723513337
+Lancer-Attack01_Effect.png::CompressedTexture2D::331734122558737579::1723513329::1723513337::1::::<><>::
+Lancer-Attack02_Effect.png::CompressedTexture2D::8147105120457188320::1723513329::1723513337::1::::<><>::
+Lancer-Attack03_Effect.png::CompressedTexture2D::3480208894219201817::1723513329::1723513337::1::::<><>::
+Lancer.png::CompressedTexture2D::4511523467045966322::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc/::1723513329
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc/Orc/::1723513337
+Orc-Attack01.png::CompressedTexture2D::8582270070749318049::1723513329::1723513337::1::::<><>::
+Orc-Attack02.png::CompressedTexture2D::6162843955753586419::1723513329::1723513337::1::::<><>::
+Orc-Death.png::CompressedTexture2D::1632322419218590781::1723513329::1723513337::1::::<><>::
+Orc-Hurt.png::CompressedTexture2D::380074061436733904::1723513329::1723513337::1::::<><>::
+Orc-Idle.png::CompressedTexture2D::7242578383971695170::1723513329::1723513337::1::::<><>::
+Orc-Walk.png::CompressedTexture2D::1924597881691945344::1723513329::1723513337::1::::<><>::
+Orc.png::CompressedTexture2D::6557556631746108764::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc/Orc/Shadow sprites/::1723513337
+Orc-shadow.png::CompressedTexture2D::1067729038644601243::1723513329::1723513337::1::::<><>::
+Orc-shadow_attack02.png::CompressedTexture2D::6601507340608269984::1723513329::1723513337::1::::<><>::
+Orc-shadow_death.png::CompressedTexture2D::4648190332407308624::1723513329::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc/Orc with shadows/::1723513337
+Orc-Attack01.png::CompressedTexture2D::2415210879927025587::1723513329::1723513337::1::::<><>::
+Orc-Attack02.png::CompressedTexture2D::31207057064010228::1723513329::1723513337::1::::<><>::
+Orc-Death.png::CompressedTexture2D::2574146412140115141::1723513329::1723513337::1::::<><>::
+Orc-Hurt.png::CompressedTexture2D::2693459736215780343::1723513329::1723513336::1::::<><>::
+Orc-Idle.png::CompressedTexture2D::583287956374596816::1723513329::1723513336::1::::<><>::
+Orc-Walk.png::CompressedTexture2D::8919899559678855017::1723513329::1723513336::1::::<><>::
+Orc.png::CompressedTexture2D::6113347183819348328::1723513329::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc/Orc(Split Effects)/::1723513336
+Orc-attack01_Effect.png::CompressedTexture2D::4601576852474722406::1723513329::1723513336::1::::<><>::
+Orc-attack02_Effect.png::CompressedTexture2D::5074723566987444931::1723513329::1723513336::1::::<><>::
+Orc.png::CompressedTexture2D::8801518362130377567::1723513329::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc rider/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc rider/Orc rider/::1723513336
+Orc rider-Attack01.png::CompressedTexture2D::4751475742534975226::1723513329::1723513336::1::::<><>::
+Orc rider-Attack02.png::CompressedTexture2D::8534286358397734569::1723513329::1723513336::1::::<><>::
+Orc rider-Attack03.png::CompressedTexture2D::8239030838892408392::1723513329::1723513336::1::::<><>::
+Orc rider-Block.png::CompressedTexture2D::3160440945985205233::1723513329::1723513336::1::::<><>::
+Orc rider-Death.png::CompressedTexture2D::3534144579921229160::1723513329::1723513336::1::::<><>::
+Orc rider-Hurt.png::CompressedTexture2D::3267151789379235707::1723513329::1723513336::1::::<><>::
+Orc rider-Idle.png::CompressedTexture2D::5797577461954608383::1723513329::1723513336::1::::<><>::
+Orc rider-Walk.png::CompressedTexture2D::3284005438555962489::1723513329::1723513336::1::::<><>::
+Orc rider.png::CompressedTexture2D::4313447093098108380::1723513329::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc rider/Orc rider/Shadow sprites/::1723513336
+Orc rider-shadow.png::CompressedTexture2D::1319517447874454970::1723513329::1723513336::1::::<><>::
+Orc rider-shadow_death.png::CompressedTexture2D::7602631278406690353::1723513329::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc rider/Orc rider with shadows/::1723513336
+Orc rider-Attack01.png::CompressedTexture2D::4053382562046897173::1723513329::1723513336::1::::<><>::
+Orc rider-Attack02.png::CompressedTexture2D::2462024586587091800::1723513329::1723513336::1::::<><>::
+Orc rider-Attack03.png::CompressedTexture2D::1268232628201628769::1723513329::1723513336::1::::<><>::
+Orc rider-Block.png::CompressedTexture2D::3187477386166017617::1723513329::1723513336::1::::<><>::
+Orc rider-Death.png::CompressedTexture2D::3368070424716867644::1723513330::1723513336::1::::<><>::
+Orc rider-Hurt.png::CompressedTexture2D::8630972144578458547::1723513330::1723513336::1::::<><>::
+Orc rider-Idle.png::CompressedTexture2D::2388741044184879237::1723513330::1723513336::1::::<><>::
+Orc rider-Walk.png::CompressedTexture2D::4841834836590021544::1723513330::1723513336::1::::<><>::
+Orc rider.png::CompressedTexture2D::3525542350117803641::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Orc rider/Orc rider(Split Effects)/::1723513336
+Orc rider-Attack01_Effect.png::CompressedTexture2D::8492964254437221648::1723513330::1723513336::1::::<><>::
+Orc rider-Attack02_Effect.png::CompressedTexture2D::1670479493479310705::1723513330::1723513336::1::::<><>::
+Orc rider-Attack03_Effect.png::CompressedTexture2D::5825357669927796965::1723513330::1723513336::1::::<><>::
+Orc rider.png::CompressedTexture2D::5096986980912629560::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Priest/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Priest/Magic(projectile)/::1723513336
+Priest-Attack_Effect.png::CompressedTexture2D::1021626985028216834::1723513330::1723513336::1::::<><>::
+Priest-Heal_Effect.png::CompressedTexture2D::844608509039356192::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Priest/Priest/::1723513336
+Priest-Attack.png::CompressedTexture2D::2483226051109408285::1723513330::1723513336::1::::<><>::
+Priest-Death.png::CompressedTexture2D::8495783786267742699::1723513330::1723513336::1::::<><>::
+Priest-Heal.png::CompressedTexture2D::4538582314072524858::1723513330::1723513336::1::::<><>::
+Priest-Hurt.png::CompressedTexture2D::6533660825477596966::1723513330::1723513336::1::::<><>::
+Priest-Idle.png::CompressedTexture2D::1186103986126529654::1723513330::1723513336::1::::<><>::
+Priest-Walk.png::CompressedTexture2D::6993736393436236388::1723513330::1723513336::1::::<><>::
+Priest.png::CompressedTexture2D::6988650858493948783::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Priest/Priest/Shadow sprites/::1723513336
+Priest-Shadow.png::CompressedTexture2D::5283830198892875855::1723513330::1723513336::1::::<><>::
+Priest-Shadow_death.png::CompressedTexture2D::4054376967751502502::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Priest/Priest with shadows/::1723513336
+Priest-Attack.png::CompressedTexture2D::3473874779437946495::1723513330::1723513336::1::::<><>::
+Priest-Death.png::CompressedTexture2D::9105860974745635660::1723513330::1723513336::1::::<><>::
+Priest-Heal.png::CompressedTexture2D::2937843228269981907::1723513330::1723513336::1::::<><>::
+Priest-Hurt.png::CompressedTexture2D::139690571276065555::1723513330::1723513336::1::::<><>::
+Priest-Idle.png::CompressedTexture2D::6354185147624623720::1723513330::1723513336::1::::<><>::
+Priest-Walk.png::CompressedTexture2D::273717824584801057::1723513330::1723513336::1::::<><>::
+Priest.png::CompressedTexture2D::2779605560365642953::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Priest/Priest(Split Effects)/::1723513336
+Priest-Attack_Effect.png::CompressedTexture2D::314406388335265965::1723513330::1723513336::1::::<><>::
+Priest-Heal_Effect.png::CompressedTexture2D::7858778931076084364::1723513330::1723513336::1::::<><>::
+Priest.png::CompressedTexture2D::3972227373502727443::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton/Skeleton/::1723513336
+Skeleton-Attack01.png::CompressedTexture2D::8341955926059393261::1723513330::1723513336::1::::<><>::
+Skeleton-Attack02.png::CompressedTexture2D::723835691078068486::1723513330::1723513336::1::::<><>::
+Skeleton-Block.png::CompressedTexture2D::2254007897913861454::1723513330::1723513336::1::::<><>::
+Skeleton-Death.png::CompressedTexture2D::9093918633136264462::1723513330::1723513336::1::::<><>::
+Skeleton-Hurt.png::CompressedTexture2D::3930014318785658500::1723513330::1723513336::1::::<><>::
+Skeleton-Idle.png::CompressedTexture2D::4543630758234086522::1723513330::1723513336::1::::<><>::
+Skeleton-Walk.png::CompressedTexture2D::7622320149173129931::1723513330::1723513336::1::::<><>::
+Skeleton.png::CompressedTexture2D::1377193794532637083::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton/Skeleton/Shadow sprites/::1723513336
+Skeleton-Shadow.png::CompressedTexture2D::7985168171067632277::1723513330::1723513336::1::::<><>::
+Skeleton-Shadow_death.png::CompressedTexture2D::2072846633764516289::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton/Skeleton with shadows/::1723513336
+Skeleton-Attack01.png::CompressedTexture2D::5721131852492984532::1723513330::1723513336::1::::<><>::
+Skeleton-Attack02.png::CompressedTexture2D::9087724406403057834::1723513330::1723513336::1::::<><>::
+Skeleton-Block.png::CompressedTexture2D::3727563314798433293::1723513330::1723513336::1::::<><>::
+Skeleton-Death.png::CompressedTexture2D::3290608280323734680::1723513330::1723513336::1::::<><>::
+Skeleton-Hurt.png::CompressedTexture2D::6867913862531874685::1723513330::1723513336::1::::<><>::
+Skeleton-Idle.png::CompressedTexture2D::1191625543006407087::1723513330::1723513336::1::::<><>::
+Skeleton-Walk.png::CompressedTexture2D::8549784039224856867::1723513330::1723513336::1::::<><>::
+Skeleton.png::CompressedTexture2D::6160660889823814916::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton/Skeleton(Split Effects)/::1723513336
+Skeleton-Attack01_Effect.png::CompressedTexture2D::2110531424561629822::1723513330::1723513336::1::::<><>::
+Skeleton-Attack02_Effect.png::CompressedTexture2D::2116960059691230805::1723513330::1723513336::1::::<><>::
+Skeleton.png::CompressedTexture2D::382197524307330330::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton Archer/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton Archer/Arrow(projectile)/::1723513336
+Arrow03(32x32).png::CompressedTexture2D::8909392559276817099::1723513330::1723513336::1::::<><>::
+Arrow03(100x100).png::CompressedTexture2D::4045025691428575861::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton Archer/Skeleton Archer/::1723513336
+Skeleton Archer-Attack.png::CompressedTexture2D::8251172525614681037::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Death.png::CompressedTexture2D::3070285864149170077::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Hurt.png::CompressedTexture2D::1599489238337611515::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Idle.png::CompressedTexture2D::6380133376536826465::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Walk.png::CompressedTexture2D::4120776393021857299::1723513330::1723513336::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::117626518381063313::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton Archer/Skeleton Archer/Shadow sprites/::1723513336
+Skeleton Archer-shadow.png::CompressedTexture2D::1802813246744394032::1723513330::1723513336::1::::<><>::
+Skeleton Archer-shadow_death.png::CompressedTexture2D::1148432782502998180::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton Archer/Skeleton Archer with shadows/::1723513336
+Skeleton Archer-Attack.png::CompressedTexture2D::3892974125555102599::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Death.png::CompressedTexture2D::7833982595971311058::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Hurt.png::CompressedTexture2D::5324939762680021919::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Idle.png::CompressedTexture2D::4511030717926971655::1723513330::1723513336::1::::<><>::
+Skeleton Archer-Walk.png::CompressedTexture2D::2443779825744500447::1723513330::1723513336::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::6676901734687401088::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Skeleton Archer/Skeleton Archer(Split Effects)/::1723513336
+Skeleton Archer-Attack_Effect.png::CompressedTexture2D::141932499436877323::1723513330::1723513336::1::::<><>::
+Skeleton Archer.png::CompressedTexture2D::6039607135173918354::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Slime/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Slime/Slime/::1723513336
+Slime-Attack01.png::CompressedTexture2D::6129896041778170595::1723513330::1723513336::1::::<><>::
+Slime-Attack02.png::CompressedTexture2D::2476740982677491963::1723513330::1723513336::1::::<><>::
+Slime-Death.png::CompressedTexture2D::4495798383373231915::1723513330::1723513336::1::::<><>::
+Slime-Hurt.png::CompressedTexture2D::677700045375570378::1723513330::1723513336::1::::<><>::
+Slime-Idle.png::CompressedTexture2D::3198958280635652499::1723513330::1723513336::1::::<><>::
+Slime-Walk.png::CompressedTexture2D::1026243175766652935::1723513330::1723513336::1::::<><>::
+Slime.png::CompressedTexture2D::8434499210323182381::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Slime/Slime/Shadow sprites/::1723513336
+Slime-Shadow.png::CompressedTexture2D::6390347835476974416::1723513330::1723513336::1::::<><>::
+Slime-Shadow_walk.png::CompressedTexture2D::1065844032170729243::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Slime/Slime with shadows/::1723513336
+Slime-Attack01.png::CompressedTexture2D::5372451921853910473::1723513330::1723513336::1::::<><>::
+Slime-Attack02.png::CompressedTexture2D::2072718495396528667::1723513330::1723513336::1::::<><>::
+Slime-Death.png::CompressedTexture2D::5920961778968443086::1723513330::1723513336::1::::<><>::
+Slime-Hurt.png::CompressedTexture2D::6333811527121337285::1723513330::1723513336::1::::<><>::
+Slime-Idle.png::CompressedTexture2D::5653626170274350442::1723513330::1723513336::1::::<><>::
+Slime-Walk.png::CompressedTexture2D::8977941626575571161::1723513330::1723513336::1::::<><>::
+Slime.png::CompressedTexture2D::3776117404330613087::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Slime/Slime(Split Effects)/::1723513336
+Slime-Attack01_Effect.png::CompressedTexture2D::8548146141061887424::1723513330::1723513336::1::::<><>::
+Slime-Attack02_Effect.png::CompressedTexture2D::8414417193942636781::1723513330::1723513336::1::::<><>::
+Slime.png::CompressedTexture2D::3524974276397547385::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Soldier/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Soldier/Arrow(projectile)/::1723513337
+Arrow01(32x32).png::CompressedTexture2D::6370845278971899856::1723513330::1723513336::1::::<><>::
+Arrow01(100x100).png::CompressedTexture2D::7895771005446303087::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Soldier/Soldier/::1723513337
+Soldier-Attack01.png::CompressedTexture2D::8329719262911929640::1723513330::1723513337::1::::<><>::
+Soldier-Attack02.png::CompressedTexture2D::7666480720024549872::1723513330::1723513337::1::::<><>::
+Soldier-Attack03.png::CompressedTexture2D::7856213846939272307::1723513330::1723513337::1::::<><>::
+Soldier-Death.png::CompressedTexture2D::6946594625894706182::1723513330::1723513337::1::::<><>::
+Soldier-Hurt.png::CompressedTexture2D::5581186476686146336::1723513330::1723513337::1::::<><>::
+Soldier-Idle.png::CompressedTexture2D::6795937453998133666::1723513330::1723513337::1::::<><>::
+Soldier-Shadow_attack2.png::CompressedTexture2D::206250083237580080::1723513330::1723513337::1::::<><>::
+Soldier-Walk.png::CompressedTexture2D::564965054849083469::1723513330::1723513337::1::::<><>::
+Soldier.png::CompressedTexture2D::5941716375249209823::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Soldier/Soldier/Shadow sprites/::1723513337
+Soldier-Shadow.png::CompressedTexture2D::3813652650221722373::1723513330::1723513337::1::::<><>::
+Soldier-Shadow_death.png::CompressedTexture2D::8311826564025582807::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Soldier/Soldier with shadows/::1723513337
+Soldier-Attack01.png::CompressedTexture2D::1881321706769726530::1723513330::1723513337::1::::<><>::
+Soldier-Attack02.png::CompressedTexture2D::3055725223467105223::1723513330::1723513337::1::::<><>::
+Soldier-Attack03.png::CompressedTexture2D::7534655953115677190::1723513330::1723513337::1::::<><>::
+Soldier-Death.png::CompressedTexture2D::2553078119212298647::1723513330::1723513337::1::::<><>::
+Soldier-Hurt.png::CompressedTexture2D::438407521163368977::1723513330::1723513337::1::::<><>::
+Soldier-Idle.png::CompressedTexture2D::2504626291962788548::1723513330::1723513337::1::::<><>::
+Soldier-Walk.png::CompressedTexture2D::7154339820350394917::1723513330::1723513337::1::::<><>::
+Soldier.png::CompressedTexture2D::579705281659707961::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Soldier/Soldier(Split Effects)/::1723513337
+Soldier-Attack01_Effect.png::CompressedTexture2D::7394462230758850427::1723513330::1723513337::1::::<><>::
+Soldier-Attack02_Effect.png::CompressedTexture2D::1691423644868369534::1723513330::1723513337::1::::<><>::
+Soldier-Attack03_Effect.png::CompressedTexture2D::9146140834252602633::1723513330::1723513337::1::::<><>::
+Soldier.png::CompressedTexture2D::8152585668813550903::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Swordsman/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Swordsman/Swordsman/::1723513337
+Swordsman-Attack01.png::CompressedTexture2D::8358078529610469825::1723513330::1723513337::1::::<><>::
+Swordsman-Attack02.png::CompressedTexture2D::7118122828272282168::1723513330::1723513337::1::::<><>::
+Swordsman-Attack3.png::CompressedTexture2D::434263557682157810::1723513330::1723513337::1::::<><>::
+Swordsman-Death.png::CompressedTexture2D::7860755830239477410::1723513330::1723513337::1::::<><>::
+Swordsman-Hurt.png::CompressedTexture2D::3558269245269787145::1723513330::1723513337::1::::<><>::
+Swordsman-Idle.png::CompressedTexture2D::676258371568261671::1723513330::1723513337::1::::<><>::
+Swordsman-Walk.png::CompressedTexture2D::9082077120579805639::1723513330::1723513337::1::::<><>::
+Swordsman.png::CompressedTexture2D::7724427257167258012::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Swordsman/Swordsman/Shadow sprites/::1723513337
+Swordsman-Shadow.png::CompressedTexture2D::3010056730010928648::1723513330::1723513337::1::::<><>::
+Swordsman-Shadow_death.png::CompressedTexture2D::7050849424100471860::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Swordsman/Swordsman with shadows/::1723513337
+Swordsman-Attack01.png::CompressedTexture2D::3326257616469818000::1723513330::1723513337::1::::<><>::
+Swordsman-Attack02.png::CompressedTexture2D::7525487112595009899::1723513330::1723513337::1::::<><>::
+Swordsman-Attack3.png::CompressedTexture2D::5345200234103736846::1723513330::1723513337::1::::<><>::
+Swordsman-Death.png::CompressedTexture2D::4822367075499296488::1723513330::1723513337::1::::<><>::
+Swordsman-Hurt.png::CompressedTexture2D::6077987998642563019::1723513330::1723513337::1::::<><>::
+Swordsman-Idle.png::CompressedTexture2D::7193035832889926799::1723513330::1723513337::1::::<><>::
+Swordsman-Walk.png::CompressedTexture2D::1749306387711757542::1723513330::1723513337::1::::<><>::
+Swordsman.png::CompressedTexture2D::1709437525868550420::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Swordsman/Swordsman(Split Effects)/::1723513337
+Swordsman-Attack01_Effect.png::CompressedTexture2D::3483908927065057755::1723513330::1723513337::1::::<><>::
+Swordsman-Attack02_Effect.png::CompressedTexture2D::2133532909192935634::1723513330::1723513337::1::::<><>::
+Swordsman-Attack3_Effect.png::CompressedTexture2D::4533705136066724645::1723513330::1723513337::1::::<><>::
+Swordsman.png::CompressedTexture2D::2904043104324292185::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werebear/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werebear/Werebear/::1723513337
+Werebear-Attack01.png::CompressedTexture2D::1682677848403950555::1723513330::1723513337::1::::<><>::
+Werebear-Attack02.png::CompressedTexture2D::6051260416536760938::1723513330::1723513337::1::::<><>::
+Werebear-Attack03.png::CompressedTexture2D::1887315603812187428::1723513330::1723513337::1::::<><>::
+Werebear-Death.png::CompressedTexture2D::8872071335084843869::1723513330::1723513337::1::::<><>::
+Werebear-Hurt.png::CompressedTexture2D::2863062303107389032::1723513330::1723513337::1::::<><>::
+Werebear-Idle.png::CompressedTexture2D::2894079407207154807::1723513330::1723513337::1::::<><>::
+Werebear-Walk.png::CompressedTexture2D::5928323327659967244::1723513330::1723513337::1::::<><>::
+Werebear.png::CompressedTexture2D::120490135840245821::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werebear/Werebear/shadow sprites/::1723513337
+Werebear-shadow.png::CompressedTexture2D::7649477451130693929::1723513330::1723513337::1::::<><>::
+Werebear-shadow_death.png::CompressedTexture2D::4961520131583403379::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werebear/Werebear with shadows/::1723513337
+Werebear-Attack01.png::CompressedTexture2D::126341539717518922::1723513330::1723513336::1::::<><>::
+Werebear-Attack02.png::CompressedTexture2D::6377463939833495346::1723513330::1723513336::1::::<><>::
+Werebear-Attack03.png::CompressedTexture2D::4893961563267513117::1723513330::1723513336::1::::<><>::
+Werebear-Death.png::CompressedTexture2D::3538178322938374427::1723513330::1723513336::1::::<><>::
+Werebear-Hurt.png::CompressedTexture2D::3734174645691220838::1723513330::1723513336::1::::<><>::
+Werebear-Idle.png::CompressedTexture2D::7565011049475807044::1723513330::1723513336::1::::<><>::
+Werebear-Walk.png::CompressedTexture2D::8048870691109333541::1723513330::1723513336::1::::<><>::
+Werebear.png::CompressedTexture2D::1519648528217396644::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werebear/Werebear(Split Effects)/::1723513337
+Werebear-Attack01_Effect.png::CompressedTexture2D::3300961916284741534::1723513330::1723513336::1::::<><>::
+Werebear-Attack02_Effect.png::CompressedTexture2D::3638960033437166370::1723513330::1723513336::1::::<><>::
+Werebear-Attack03_Effect.png::CompressedTexture2D::8958807498231333939::1723513330::1723513336::1::::<><>::
+Werebear.png::CompressedTexture2D::2589910301131221806::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werewolf/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werewolf/Werewolf/::1723513337
+Werewolf-Attack01.png::CompressedTexture2D::8322848453394106940::1723513330::1723513336::1::::<><>::
+Werewolf-Attack02.png::CompressedTexture2D::2762323712195942522::1723513330::1723513336::1::::<><>::
+Werewolf-Death.png::CompressedTexture2D::2344872644133254311::1723513330::1723513336::1::::<><>::
+Werewolf-Hurt.png::CompressedTexture2D::1793209531788348933::1723513330::1723513336::1::::<><>::
+Werewolf-Idle.png::CompressedTexture2D::6641941624565746756::1723513330::1723513336::1::::<><>::
+Werewolf-Walk.png::CompressedTexture2D::3931088482436498536::1723513330::1723513336::1::::<><>::
+Werewolf.png::CompressedTexture2D::8752439275877655951::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werewolf/Werewolf/shadow sprites/::1723513336
+Werewolf-shadow.png::CompressedTexture2D::2514058174256594056::1723513330::1723513336::1::::<><>::
+Werewolf-shadow_death.png::CompressedTexture2D::5311252467228645867::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werewolf/Werewolf with shadows/::1723513336
+Werewolf-Attack01.png::CompressedTexture2D::8237785318808584406::1723513330::1723513336::1::::<><>::
+Werewolf-Attack02.png::CompressedTexture2D::2649707776182796696::1723513330::1723513336::1::::<><>::
+Werewolf-Death.png::CompressedTexture2D::3223393819060581423::1723513330::1723513336::1::::<><>::
+Werewolf-Hurt.png::CompressedTexture2D::2131354092085068416::1723513330::1723513336::1::::<><>::
+Werewolf-Idle.png::CompressedTexture2D::4473210667487695323::1723513330::1723513336::1::::<><>::
+Werewolf-Walk.png::CompressedTexture2D::7921351110967846071::1723513330::1723513336::1::::<><>::
+Werewolf.png::CompressedTexture2D::2384553569608770313::1723513330::1723513336::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Werewolf/Werewolf(Split Effects)/::1723513337
+Werewolf-Attack01_Effect.png::CompressedTexture2D::8521277997183584157::1723513330::1723513337::1::::<><>::
+Werewolf-Attack02_Effect.png::CompressedTexture2D::7514443440484629781::1723513330::1723513337::1::::<><>::
+Werewolf.png::CompressedTexture2D::8140265580657530142::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Wizard/::1723513330
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Wizard/Magic(projectile)/::1723513337
+Wizard-Attack01_Effect.png::CompressedTexture2D::510645658410948517::1723513330::1723513337::1::::<><>::
+Wizard-Attack02_Effect.png::CompressedTexture2D::6620714820519579711::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Wizard/Wizard/::1723513337
+Wizard-Attack01.png::CompressedTexture2D::1267414766558797489::1723513330::1723513337::1::::<><>::
+Wizard-Attack02.png::CompressedTexture2D::456630418852272828::1723513330::1723513337::1::::<><>::
+Wizard-DEATH.png::CompressedTexture2D::2698530657152069903::1723513330::1723513337::1::::<><>::
+Wizard-Hurt.png::CompressedTexture2D::4920135020795014282::1723513330::1723513337::1::::<><>::
+Wizard-Idle.png::CompressedTexture2D::3632316408957360540::1723513330::1723513337::1::::<><>::
+Wizard-Walk.png::CompressedTexture2D::1303191237335126751::1723513330::1723513337::1::::<><>::
+Wizard.png::CompressedTexture2D::4020962307079706873::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Wizard/Wizard/Shadow sprites/::1723513337
+Wizard-Shadow.png::CompressedTexture2D::6756729408126690978::1723513330::1723513337::1::::<><>::
+Wizard-Shadow_death.png::CompressedTexture2D::2273737524514457774::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Wizard/Wizard with shadows/::1723513337
+Wizard-Attack01.png::CompressedTexture2D::7616152494293687555::1723513330::1723513337::1::::<><>::
+Wizard-Attack02.png::CompressedTexture2D::8606518889233869724::1723513330::1723513337::1::::<><>::
+Wizard-DEATH.png::CompressedTexture2D::7547356889544374051::1723513330::1723513336::1::::<><>::
+Wizard-Hurt.png::CompressedTexture2D::353713024213933724::1723513330::1723513336::1::::<><>::
+Wizard-Idle.png::CompressedTexture2D::8491034264895849979::1723513330::1723513336::1::::<><>::
+Wizard-Walk.png::CompressedTexture2D::2690107924691534976::1723513330::1723513336::1::::<><>::
+Wizard.png::CompressedTexture2D::2306567131136273501::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Characters(100x100)/Wizard/Wizard(Split Effects)/::1723513337
+Wizard-Attack01_Effect.png::CompressedTexture2D::633352084122873758::1723513330::1723513336::1::::<><>::
+Wizard-Attack02_Effect.png::CompressedTexture2D::4306688639794811950::1723513330::1723513336::1::::<><>::
+Wizard.png::CompressedTexture2D::332461989127025389::1723513330::1723513337::1::::<><>::
+::res://assets/Tiny RPG Character Asset Pack v1.03 -Full 20 Characters/Magic(Projectile)/::1723513336
+Priest-Attack_effect.png::CompressedTexture2D::2945844391430631579::1723513330::1723513336::1::::<><>::
+Priest-Heal_Effect.png::CompressedTexture2D::4772207765726769493::1723513330::1723513336::1::::<><>::
+Wizard-Attack01_Effect.png::CompressedTexture2D::6366732085719925087::1723513330::1723513336::1::::<><>::
+Wizard-Attack02_Effect.png::CompressedTexture2D::8754754000458441494::1723513330::1723513336::1::::<><>::
+::res://scenes/::1724450628
+enemy_base.tscn::PackedScene::2046088825171913560::1724450618::0::1::::<><>::uid://cqyhk70lvej61::::res://scenes/entity_base.tscn<>uid://d1wf341qm3nyb::::res://scenes/Skeleton.png
+entity_base.tscn::PackedScene::5945852528475905516::1724450618::0::1::::<><>::res://scripts/EntityBase.gd<>uid://cjrwg46fsrsfm::::res://scenes/FlippableSprite.tscn<>uid://ciqe8blhhongw::::res://scenes/hurtbox.tscn<>uid://cdorwr33u4un6::::res://scenes/hitbox.tscn
+FlippableShape.tscn::PackedScene::2923044164319931117::1724450618::0::1::::<><>::res://scripts/flippable_shape.gd
+FlippableSprite.tscn::PackedScene::5440983441869812742::1724450618::0::1::::<><>::res://scripts/sprite_2d_flip.gd
+hitbox.tscn::PackedScene::5013381600651631825::1724450618::0::1::::<><>::res://scripts/hitbox.gd
+hurtbox.tscn::PackedScene::5367684029569511574::1724450618::0::1::::<><>::
+Knight.png::CompressedTexture2D::5559599043120272621::1724448919::1724448920::1::::<><>::
+player.tscn::PackedScene::5805627594383653824::1724167080::0::1::::<><>::
+player_base.tscn::PackedScene::1955724617305693306::1724450628::0::1::::<><>::uid://cqyhk70lvej61::::res://scenes/entity_base.tscn<>res://scripts/player_base.gd<>uid://clhd1wji2yp86::::res://scenes/Knight.png<>uid://bhv7d0sgjf7k8::::res://scenes/FlippableShape.tscn
+Skeleton.png::CompressedTexture2D::9029943447536817797::1724449625::1724449626::1::::<><>::
+test_scene.tscn::PackedScene::7199390688305284955::1724450617::0::1::::<><>::uid://24mq7rm55507::::res://scenes/player_base.tscn<>uid://4fe1wk4fawtk::::res://scenes/enemy_base.tscn
+::res://scripts/::1724450365
+damage_indicator.gd::GDScript::-1::1724423599::0::1::::<>Node2D<>::
+EntityBase.gd::GDScript::-1::1724449477::0::1::::<>CharacterBody2D<>::
+flippable_shape.gd::GDScript::-1::1724450365::0::1::::FlippableShape<>CollisionShape2D<>::
+hitbox.gd::GDScript::-1::1724449377::0::1::::<>Area2D<>::
+Item.gd::GDScript::-1::1723515491::0::1::::Item<>Resource<>::
+Node2D.gd::GDScript::-1::1723516496::0::1::::<>CharacterBody2D<>::
+player.gd::GDScript::-1::1723515995::0::1::::<>CharacterBody2D<>::
+player_base.gd::GDScript::-1::1724449516::0::1::::<>CharacterBody2D<>::
+sprite_2d_flip.gd::GDScript::-1::1724447844::0::1::::FlippableSprite<>Sprite2D<>::
+::res://Shaders/::1724447378
+HitFlash.tres::VisualShader::3747303262572425554::1724447378::0::1::::<><>::
+::res://UI/::1724450618
+damage_indicator.tscn::PackedScene::481517839819606546::1724450618::0::1::::<><>::res://scripts/damage_indicator.gd
